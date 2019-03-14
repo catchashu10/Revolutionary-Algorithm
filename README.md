@@ -1,11 +1,10 @@
 # Revolutionary Algorithm
 
 An extention to the Evolutionary Alorithmic approach to solve real life scenario probelms.
-A more real and concised approach to solve real life humanitarian crisis using technology and making good use of technology to guide the evolution of human speceis in the times to come.
+A more real and concised approach to solve real life humanitarian crisis using technology and making good use of technology to guide the evolution of human species in the times to come.
 
-This algorithm coceptualized the most important issue that we ask each and everyday! 
+This algorithm coceptualizes the most important issue that we ask each and everyday! 
 + Where are we heading with all these advancements in the fields that we work on.
-+ Where are we heading towards?
 + What is there in store for humans next?
 
 An algorithm to find solution to all the major issues **Our Home Planet** _**EARTH**_ is facing!
