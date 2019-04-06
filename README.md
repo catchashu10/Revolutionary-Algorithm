@@ -2,7 +2,7 @@
 #### (Reverse - Evolutionary ==> Revolutionary)
 
 + Evolutionary Algorithm  ====> "Survival of the fittest"
-+ Revolutionary Algorithm ====> "Extiction of the fittest"
++ Revolutionary Algorithm ====> "Extinction of the fittest"
 
 #### Potential candidate to the question what is _Therory of Everything_ ?
 
