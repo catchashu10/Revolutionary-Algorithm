@@ -1,4 +1,10 @@
 # Revolutionary Algorithm
+#### (Reverse - Evolutionary ==> Revolutionary)
+
++ Evolutionary Algorithm  ====> "Survival of the fittest"
++ Revolutionary Algorithm ====> "Extiction of the fittest"
+
+#### Potential candidate to the question what is _Therory of Everything_ ?
 
 An extention to the Evolutionary Alorithmic approach to solve real life scenario probelms.
 A more real and concised approach to solve real life humanitarian crisis using technology and making good use of technology to guide the evolution of human species in the times to come.
